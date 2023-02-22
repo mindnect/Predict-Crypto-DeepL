@@ -1,6 +1,7 @@
 ## Predict Cryptocurrency Prices Using Deep Learning
 
-![result]("screenshot.png")
+![screenshot](https://user-images.githubusercontent.com/76783667/220635316-7e3e28bc-2b19-4191-bce3-91005982cbf6.png)
+
 
 I've been working on a method for predicting cryptocurrency prices using deep learning. The bottom line is that it
 doesn't work. I've only released this code for share my portfolio. This commit is only the last version and I've already
